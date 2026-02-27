@@ -7,6 +7,8 @@
       when:
         - os: windows
 Resident Evil 2 (2019):
+  installDir:
+    Resident Evil 2: {}
   files:
     "<winPublic>/Documents/Steam/CODEX/883710/remote/win64_save":
       tags:
