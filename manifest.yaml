@@ -1,44 +1,15 @@
+---
 "Dragon Ball Z: Kakarot":
-  cloud:
-    steam: true
   files:
     "<winPublic>/Documents/Steam/RUNE/851850/remote":
       tags:
         - save
       when:
         - os: windows
-          store: steam
-  installDir:
-    DRAGON BALL Z KAKAROT: {}
-  launch:
-    "<base>/AT.exe":
-      - when:
-          - bit: 64
-            os: windows
-            store: steam
-  steam:
-    id: 851850
 Resident Evil 2 (2019):
-  cloud:
-    steam: true
   files:
     "<winPublic>/Documents/Steam/CODEX/883710/remote":
       tags:
         - save
       when:
         - os: windows
-          store: steam
-  id:
-    lutris: resident-evil-2-biohazard-re2
-    steamExtra:
-      - 961440
-      - 1168280
-  installDir:
-    RESIDENT EVIL 2  BIOHAZARD RE2: {}
-  launch:
-    "<base>/re2.exe":
-      - when:
-          - os: windows
-            store: steam
-  steam:
-    id: 883710
