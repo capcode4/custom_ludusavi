@@ -15,3 +15,10 @@ Resident Evil 2 (2019):
         - save
       when:
         - os: windows
+Doom Eternal:
+  files:
+    "<winPublic>/Documents/Steam/RUNE/782330/remote":
+      tags:
+        - save
+      when:
+        - os: windows
