@@ -24,7 +24,7 @@ Doom Eternal:
         - os: windows
 Forza Horizon 6:
   files:
-    "<winPublic>/Documents/MicrosoftStore/RUNE/Forza Horizon 6 [7BF69384]/1337133713371337/SaveGames/ContainersRoot":
+    "<winPublic>/Documents/MicrosoftStore/RUNE/Forza Horizon 6 [[]7BF69384[]]/*/SaveGames/ContainersRoot":
       tags:
         - save
       when:
